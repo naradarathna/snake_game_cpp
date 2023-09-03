@@ -29,6 +29,8 @@ This is handle logic inside the game by changing status. So this is handle, obje
 
 This the visual content part. So this convert the game status to visual content.
 
+## Diagram
+
 ![Untitled presentation](https://github.com/naradarathna/snake_game_cpp/assets/118175795/20698c92-e955-465e-9b4a-5622de23e764)
 
 
