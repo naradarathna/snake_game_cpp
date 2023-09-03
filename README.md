@@ -1,4 +1,4 @@
-# snake game
+# Snake Game
 
 This is a simple C++ application to denote game loop pattern by snake game. We know, the game loop pattern we are using in every game engine. Second to second every changes happens from this game loop. So this is a Behavioral design pattern. The game loop runs continuously during gameplay. Each turn of the loop, it processes user input without blocking, updates the game state, and renders the game. It tracks the passage of time to control the rate of gameplay.
 
